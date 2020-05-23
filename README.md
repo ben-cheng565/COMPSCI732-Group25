@@ -21,6 +21,12 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
+
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
