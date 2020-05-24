@@ -30,7 +30,7 @@ This is a multiplayer implementation of the card game President. The front end i
 | 2  |3.19|9:00pm|Zoom|First online meeting, topic determination and proposal writing|
 | 3  |4.2|9:00pm|Zoom|Functionality discussion, and project design|
 | 4 |4.9|9:00pm|Zoom|Progress of frontend and backend discussion & tasks breakdown and division|
-| 5 |4.17|9:00pm|Zoom|Process confirm, discussion on frontend and backend interaction |
+| 5 |4.17|9:00pm|Zoom|Process confirmation, discussion on frontend and backend interaction |
 | 6  |4.23|9:00pm|Zoom|Backend logic discussion|
 | 7 |5.1|8:30pm|Zoom|Backend fully done, then integration and usage discussion|
 | 8   |5.7|9:10pm|Whatsapp|Frontend process confirmation|
