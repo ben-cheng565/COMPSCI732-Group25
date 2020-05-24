@@ -1,10 +1,9 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/ben-cheng565/COMPSCI732-Group25/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a multiplayer implementation of the card game President. The front end is developed using React, and the back end is Django.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Team Members Assignments
+#### Jonathan Sulinom 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
