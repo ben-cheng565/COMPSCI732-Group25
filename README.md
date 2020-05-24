@@ -3,7 +3,11 @@
 This is a multiplayer implementation of the card game President. The front end is developed using React, and the back end is Django.
 
 ### Team Members Assignments
-#### Jonathan Sulinom 
+#### Jonathan Sulinom
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
