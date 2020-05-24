@@ -4,14 +4,15 @@ This is a multiplayer implementation of the card game President. The front end i
 
 ### Team Members Assignments
 #### Jonathan Sulinom
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for ddddddddd
+
+### Team Meeting Schedule
 
 | Syntax      | Description |
 | ----------- | ----------- |
 | Header      | Title       |
 | Paragraph   | Text        |
 
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for ddddddddd
 
 ```markdown
 Syntax highlighted code block
