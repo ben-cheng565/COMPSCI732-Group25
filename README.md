@@ -8,10 +8,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Team Meeting Schedule
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| No. |   Date   |  Time  |   Present member   |    Object     |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| Header      | Title       | Header      | Title       | Title       |
+| Paragraph   | Text        | Paragraph   | Paragraph   | Text        |
 
 
 ```markdown
