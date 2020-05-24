@@ -5,7 +5,7 @@ This is a multiplayer implementation of the card game President. The front end i
 ## Team Members Assignments
 #### - Jonathan Sulinom
 - Front-end logic
-- Git coordination
+- Git coordination and management
 - Front-end and back-end integration
 
 #### - Stephen Joe
