@@ -19,8 +19,7 @@ This is a multiplayer implementation of the card game President. The front end i
 - Back-end game logic control
 - Front-end pages beautification
 - GitHub Pages building
-
-..............................................................
+---------------------------------------------------------
 ## Team Meeting Schedule
 
 | No. |   Date   |  Time  |   Present member   |    Object     |
