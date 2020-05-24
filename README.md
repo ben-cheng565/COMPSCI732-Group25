@@ -12,7 +12,6 @@ This is a multiplayer implementation of the card game President. The front end i
 - Back-end game logic
 - Back-end API + WebSockets
 
-
 #### - Su Yang
 - Back-end game logic
 - Front-end chatbox
