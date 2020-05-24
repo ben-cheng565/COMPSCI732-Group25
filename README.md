@@ -1,4 +1,4 @@
-# Introduction
+# Multiplayer Browser Game
 
 This is a multiplayer implementation of the card game President. The front end is developed using React, and the back end is Django.
 
@@ -25,6 +25,6 @@ This is a multiplayer implementation of the card game President. The front end i
 
 | No. |   Date   |  Time  |   Present member   |    Object     |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Header      | Header,Header,Header      | Title       |
-| Paragraph   | Text        | Paragraph   | Paragraph,Paragraph,Paragraph   | Text        |
+| 1      | Title       | Header      | Header,Header,Header      | Title       |
+| 2   | Text        | Paragraph   | Paragraph,Paragraph,Paragraph   | Text        |
 
