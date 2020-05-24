@@ -5,6 +5,7 @@ This is a multiplayer implementation of the card game President. The front end i
 ## Team Members Assignments
 #### - Jonathan Sulinom
 - Front-end logic
+- Front-end pages
 
 #### - Stephen Joe
 - Back-end game logic
