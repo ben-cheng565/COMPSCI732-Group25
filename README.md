@@ -12,11 +12,11 @@ This is a multiplayer implementation of the card game President. The front end i
 
 
 #### - Su Yang
-- Part of back-end game logic control
+- Back-end game logic
 - Front-end chatbox
 
 #### - Xiangli Cheng
-- Back-end game logic control
+- Back-end game logic
 - Front-end pages beautification
 - GitHub Pages building
 
